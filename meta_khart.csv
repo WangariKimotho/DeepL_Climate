@@ -1,0 +1,17 @@
+-BEGIN HEADER-
+NASA/POWER SRB/FLASHFlux/MERRA2/GEOS 5.12.4 (FP-IT) 0.5 x 0.5 Degree Daily Averaged Data 
+Dates (month/day/year): 01/01/2010 through 04/30/2021 
+Location: Latitude  15.5513   Longitude 32.5321 
+Elevation from MERRA-2: Average for 1/2x1/2 degree lat/lon region = 430.37 meters   Site = na 
+Climate zone: na (reference Briggs et al: http://www.energycodes.gov) 
+Value for missing model data cannot be computed or out of model availability range: -999 
+Parameter(s): 
+T2M_RANGE MERRA2 1/2x1/2 Temperature Range at 2 Meters (C) 
+QV2M MERRA2 1/2x1/2 Specific Humidity at 2 Meters (g/kg) 
+T2M_MIN MERRA2 1/2x1/2 Minimum Temperature at 2 Meters (C) 
+RH2M MERRA2 1/2x1/2 Relative Humidity at 2 Meters (%) 
+PRECTOT MERRA2 1/2x1/2 Precipitation (mm day-1) 
+T2M_MAX MERRA2 1/2x1/2 Maximum Temperature at 2 Meters (C) 
+T2MWET MERRA2 1/2x1/2 Wet Bulb Temperature at 2 Meters (C) 
+T2M MERRA2 1/2x1/2 Temperature at 2 Meters (C) 
+-END HEADER-
